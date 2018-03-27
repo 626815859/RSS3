@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss>
+  <rsslink>
+    <link>http://www.xinhuanet.com/finance/news_finance.xml</link>
+    <title>金融频道_新华网</title>
+  </rsslink>
+  <rsslink>
+    <link>http://www.xinhuanet.com/food/news_food.xml</link>
+    <title>食品频道_新华网</title>
+  </rsslink>
+  <rsslink>
+    <link>http://www.xinhuanet.com/edu/news_edu.xml</link>
+    <title>教育频道_新华网</title>
+  </rsslink>
+  <rsslink>
+    <link>http://www.xinhuanet.com/fortune/news_fortune.xml</link>
+    <title>财经频道_新华网</title>
+  </rsslink>
+</rss>
